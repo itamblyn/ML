@@ -317,3 +317,6 @@ Now you may want to follow one of the tutorials:
 * [LeNet MNIST Tutorial](http://caffe.berkeleyvision.org/gathered/examples/mnist.html)
 * [ImageNet tutorial](http://caffe.berkeleyvision.org/gathered/examples/imagenet.html)
 
+
+* Other random things that seem to be used
+    sudo apt-get install graphviz
